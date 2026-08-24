@@ -3,12 +3,23 @@
     "number": 15565,
     "title": "Give Table health, Domains, Jobs and Alerts a real row skeleton (2 of TBD)",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15565",
-    "state": "open",
-    "updated_at": "2026-08-23T11:01:38Z",
-    "merged_at": null,
+    "state": "closed",
+    "updated_at": "2026-08-24T15:04:21Z",
+    "merged_at": "2026-08-24T15:04:19Z",
     "additions": 413,
     "deletions": 34,
     "changed_files": 12
+  },
+  {
+    "number": 15563,
+    "title": "Fix Loader variant prop silently ignored at 54 call sites (1 of TBD)",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15563",
+    "state": "closed",
+    "updated_at": "2026-08-24T15:00:19Z",
+    "merged_at": "2026-08-24T15:00:18Z",
+    "additions": 113,
+    "deletions": 216,
+    "changed_files": 53
   },
   {
     "number": 15564,
@@ -20,17 +31,6 @@
     "additions": 308,
     "deletions": 28,
     "changed_files": 5
-  },
-  {
-    "number": 15563,
-    "title": "Fix Loader variant prop silently ignored at 54 call sites (1 of TBD)",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15563",
-    "state": "open",
-    "updated_at": "2026-08-22T13:01:23Z",
-    "merged_at": null,
-    "additions": 113,
-    "deletions": 216,
-    "changed_files": 53
   },
   {
     "number": 15556,
