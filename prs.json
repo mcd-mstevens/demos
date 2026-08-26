@@ -1,5 +1,27 @@
 [
   {
+    "number": 15629,
+    "title": "a11y: add accessible names to icon-only controls",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15629",
+    "state": "open",
+    "updated_at": "2026-08-26T18:47:51Z",
+    "merged_at": null,
+    "additions": 0,
+    "deletions": 1,
+    "changed_files": 1
+  },
+  {
+    "number": 15628,
+    "title": "a11y: remove hidden containers from the keyboard tab order",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15628",
+    "state": "open",
+    "updated_at": "2026-08-26T18:46:24Z",
+    "merged_at": null,
+    "additions": 26,
+    "deletions": 2,
+    "changed_files": 4
+  },
+  {
     "number": 15565,
     "title": "Give Table health, Domains, Jobs and Alerts a real row skeleton (2 of TBD)",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15565",
@@ -526,27 +548,5 @@
     "additions": 437,
     "deletions": 228,
     "changed_files": 10
-  },
-  {
-    "number": 14748,
-    "title": "Promote sample spans to an Evidence table column",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14748",
-    "state": "closed",
-    "updated_at": "2026-07-21T21:31:09Z",
-    "merged_at": null,
-    "additions": 129,
-    "deletions": 129,
-    "changed_files": 3
-  },
-  {
-    "number": 14739,
-    "title": "Remove the agent-health-create-monitor flag gate",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14739",
-    "state": "closed",
-    "updated_at": "2026-07-21T18:05:38Z",
-    "merged_at": "2026-07-21T18:05:36Z",
-    "additions": 11,
-    "deletions": 20,
-    "changed_files": 6
   }
 ]
