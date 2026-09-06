@@ -1,5 +1,27 @@
 [
   {
+    "number": 15845,
+    "title": "Give every route a real browser tab title",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15845",
+    "state": "open",
+    "updated_at": "2026-09-06T17:33:12Z",
+    "merged_at": null,
+    "additions": 826,
+    "deletions": 164,
+    "changed_files": 42
+  },
+  {
+    "number": 15844,
+    "title": "Give every route a real browser tab title",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15844",
+    "state": "closed",
+    "updated_at": "2026-09-06T17:17:14Z",
+    "merged_at": null,
+    "additions": 826,
+    "deletions": 164,
+    "changed_files": 42
+  },
+  {
     "number": 15839,
     "title": "Put the Settings lists on the shared row skeleton (3 of TBD)",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15839",
@@ -526,27 +548,5 @@
     "additions": 1839,
     "deletions": 1135,
     "changed_files": 36
-  },
-  {
-    "number": 14756,
-    "title": "Remove noisy promotional banners and shorten Jobs-moved callout run",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14756",
-    "state": "closed",
-    "updated_at": "2026-07-23T16:54:27Z",
-    "merged_at": "2026-07-23T16:54:26Z",
-    "additions": 4,
-    "deletions": 341,
-    "changed_files": 17
-  },
-  {
-    "number": 14788,
-    "title": "Remove the per-card Fix with AI icon from reinforcement loop issue cards",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14788",
-    "state": "closed",
-    "updated_at": "2026-07-22T21:14:29Z",
-    "merged_at": "2026-07-22T21:14:27Z",
-    "additions": 14,
-    "deletions": 72,
-    "changed_files": 6
   }
 ]
