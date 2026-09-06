@@ -1,5 +1,16 @@
 [
   {
+    "number": 15839,
+    "title": "Put the Settings lists on the shared row skeleton (3 of TBD)",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15839",
+    "state": "open",
+    "updated_at": "2026-09-06T13:13:03Z",
+    "merged_at": null,
+    "additions": 163,
+    "deletions": 93,
+    "changed_files": 15
+  },
+  {
     "number": 15634,
     "title": "a11y: give four controls a stable accessible name",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15634",
@@ -537,16 +548,5 @@
     "additions": 14,
     "deletions": 72,
     "changed_files": 6
-  },
-  {
-    "number": 14770,
-    "title": "Flatten agent-health take-action rows to a uniform footer style",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14770",
-    "state": "closed",
-    "updated_at": "2026-07-22T17:54:49Z",
-    "merged_at": "2026-07-22T17:54:48Z",
-    "additions": 261,
-    "deletions": 273,
-    "changed_files": 4
   }
 ]
