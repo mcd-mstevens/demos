@@ -3,9 +3,9 @@
     "number": 15845,
     "title": "Give every route a real browser tab title",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15845",
-    "state": "open",
-    "updated_at": "2026-09-06T21:52:03Z",
-    "merged_at": null,
+    "state": "closed",
+    "updated_at": "2026-09-07T10:45:25Z",
+    "merged_at": "2026-09-07T10:45:24Z",
     "additions": 882,
     "deletions": 128,
     "changed_files": 47
