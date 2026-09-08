@@ -4,11 +4,11 @@
     "title": "Add search to dashboard audience and tag filters",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15880",
     "state": "open",
-    "updated_at": "2026-09-08T21:11:27Z",
+    "updated_at": "2026-09-08T23:47:05Z",
     "merged_at": null,
-    "additions": 253,
-    "deletions": 80,
-    "changed_files": 7
+    "additions": 403,
+    "deletions": 90,
+    "changed_files": 10
   },
   {
     "number": 15845,
