@@ -1,14 +1,58 @@
 [
   {
+    "number": 15901,
+    "title": "Stop wildcard tag filters broadening a server-narrowed selection",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15901",
+    "state": "open",
+    "updated_at": "2026-09-09T15:45:13Z",
+    "merged_at": null,
+    "additions": 482,
+    "deletions": 299,
+    "changed_files": 22
+  },
+  {
+    "number": 15900,
+    "title": "Give the shared Table its own loading state (4 of TBD)",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15900",
+    "state": "open",
+    "updated_at": "2026-09-09T15:43:55Z",
+    "merged_at": null,
+    "additions": 516,
+    "deletions": 457,
+    "changed_files": 26
+  },
+  {
+    "number": 15899,
+    "title": "Align the alerts table's first column with the heading above it",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15899",
+    "state": "open",
+    "updated_at": "2026-09-09T15:29:36Z",
+    "merged_at": null,
+    "additions": 41,
+    "deletions": 23,
+    "changed_files": 2
+  },
+  {
     "number": 15896,
     "title": "Load the whole asset tag list instead of the first page",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15896",
-    "state": "open",
-    "updated_at": "2026-09-09T13:15:10Z",
+    "state": "closed",
+    "updated_at": "2026-09-09T15:18:54Z",
     "merged_at": null,
     "additions": 154,
     "deletions": 13,
     "changed_files": 3
+  },
+  {
+    "number": 15839,
+    "title": "Put the Settings lists on the shared row skeleton (3 of TBD)",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15839",
+    "state": "closed",
+    "updated_at": "2026-09-09T14:46:47Z",
+    "merged_at": "2026-09-09T14:46:46Z",
+    "additions": 163,
+    "deletions": 93,
+    "changed_files": 15
   },
   {
     "number": 15880,
@@ -42,17 +86,6 @@
     "additions": 826,
     "deletions": 164,
     "changed_files": 42
-  },
-  {
-    "number": 15839,
-    "title": "Put the Settings lists on the shared row skeleton (3 of TBD)",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15839",
-    "state": "open",
-    "updated_at": "2026-09-06T13:13:03Z",
-    "merged_at": null,
-    "additions": 163,
-    "deletions": 93,
-    "changed_files": 15
   },
   {
     "number": 15634,
@@ -515,38 +548,5 @@
     "additions": 96,
     "deletions": 9,
     "changed_files": 4
-  },
-  {
-    "number": 14856,
-    "title": "Fix alerts Type filter selection corruption and wrong chip counts",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14856",
-    "state": "closed",
-    "updated_at": "2026-07-24T19:56:13Z",
-    "merged_at": "2026-07-24T19:56:11Z",
-    "additions": 232,
-    "deletions": 19,
-    "changed_files": 11
-  },
-  {
-    "number": 14848,
-    "title": "Use muted table styling for the Delta history tab",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14848",
-    "state": "closed",
-    "updated_at": "2026-07-24T16:45:16Z",
-    "merged_at": "2026-07-24T16:45:13Z",
-    "additions": 10,
-    "deletions": 34,
-    "changed_files": 4
-  },
-  {
-    "number": 14849,
-    "title": "Inset the Tables/Reports tab strip from the data product card edge",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14849",
-    "state": "closed",
-    "updated_at": "2026-07-24T14:50:43Z",
-    "merged_at": "2026-07-24T14:50:42Z",
-    "additions": 1,
-    "deletions": 1,
-    "changed_files": 1
   }
 ]
