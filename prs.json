@@ -1,14 +1,25 @@
 [
   {
+    "number": 15896,
+    "title": "Load the whole asset tag list instead of the first page",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15896",
+    "state": "open",
+    "updated_at": "2026-09-09T13:15:10Z",
+    "merged_at": null,
+    "additions": 154,
+    "deletions": 13,
+    "changed_files": 3
+  },
+  {
     "number": 15880,
     "title": "Add search to dashboard audience and tag filters",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15880",
-    "state": "open",
-    "updated_at": "2026-09-08T23:47:05Z",
-    "merged_at": null,
-    "additions": 403,
-    "deletions": 90,
-    "changed_files": 10
+    "state": "closed",
+    "updated_at": "2026-09-09T11:14:15Z",
+    "merged_at": "2026-09-09T11:14:14Z",
+    "additions": 443,
+    "deletions": 96,
+    "changed_files": 12
   },
   {
     "number": 15845,
@@ -537,16 +548,5 @@
     "additions": 1,
     "deletions": 1,
     "changed_files": 1
-  },
-  {
-    "number": 14847,
-    "title": "Keep data products list columns in their lanes",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14847",
-    "state": "closed",
-    "updated_at": "2026-07-24T14:50:43Z",
-    "merged_at": "2026-07-24T14:50:42Z",
-    "additions": 195,
-    "deletions": 20,
-    "changed_files": 7
   }
 ]
