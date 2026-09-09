@@ -1,32 +1,43 @@
 [
   {
+    "number": 15914,
+    "title": "Line the alerts table up with its heading, and fix the agent page inset",
+    "html_url": "https://github.com/monte-carlo-data/frontend/pull/15914",
+    "state": "closed",
+    "updated_at": "2026-09-09T20:32:40Z",
+    "merged_at": "2026-09-09T20:32:39Z",
+    "additions": 29,
+    "deletions": 7,
+    "changed_files": 3
+  },
+  {
     "number": 15901,
     "title": "Stop wildcard tag filters broadening a server-narrowed selection",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15901",
     "state": "open",
-    "updated_at": "2026-09-09T15:45:13Z",
+    "updated_at": "2026-09-09T20:29:54Z",
     "merged_at": null,
-    "additions": 482,
-    "deletions": 299,
-    "changed_files": 22
+    "additions": 790,
+    "deletions": 273,
+    "changed_files": 24
   },
   {
     "number": 15900,
     "title": "Give the shared Table its own loading state (4 of TBD)",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15900",
     "state": "open",
-    "updated_at": "2026-09-09T15:43:55Z",
+    "updated_at": "2026-09-09T20:24:55Z",
     "merged_at": null,
-    "additions": 516,
-    "deletions": 457,
-    "changed_files": 26
+    "additions": 842,
+    "deletions": 614,
+    "changed_files": 29
   },
   {
     "number": 15899,
     "title": "Align the alerts table's first column with the heading above it",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15899",
-    "state": "open",
-    "updated_at": "2026-09-09T15:29:36Z",
+    "state": "closed",
+    "updated_at": "2026-09-09T18:39:23Z",
     "merged_at": null,
     "additions": 41,
     "deletions": 23,
@@ -537,16 +548,5 @@
     "additions": 230,
     "deletions": 33,
     "changed_files": 10
-  },
-  {
-    "number": 14868,
-    "title": "Add a hover quick-add to the Jobs nav item",
-    "html_url": "https://github.com/monte-carlo-data/frontend/pull/14868",
-    "state": "closed",
-    "updated_at": "2026-07-24T21:15:36Z",
-    "merged_at": "2026-07-24T21:15:35Z",
-    "additions": 96,
-    "deletions": 9,
-    "changed_files": 4
   }
 ]
