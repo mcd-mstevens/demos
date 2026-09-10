@@ -4,10 +4,10 @@
     "title": "Bulk alert actions on the detail pages, and toolbar cleanup",
     "html_url": "https://github.com/monte-carlo-data/frontend/pull/15920",
     "state": "open",
-    "updated_at": "2026-09-09T23:15:43Z",
+    "updated_at": "2026-09-10T10:46:11Z",
     "merged_at": null,
-    "additions": 308,
-    "deletions": 84,
+    "additions": 309,
+    "deletions": 86,
     "changed_files": 21
   },
   {
